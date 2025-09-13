@@ -25,5 +25,5 @@ Sou **Desenvolvedor Web** apaixonado por tecnologia e soluções inovadoras. Tra
 ---
 
 ### 📊 Estatísticas  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=netodedanda&show_icons=true&theme=radical)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=netodedanda&layout=compact&theme=radical)
